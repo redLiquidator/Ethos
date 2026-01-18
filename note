@@ -1,0 +1,45 @@
+----------------Environment Setup---------------
+Python 3.11.0
+------------------------------------------------
+-----------------Execution Steps----------------
+1. create produce.py file
+2. check 
+   ✅ STEP 1 — Make sure Python can run this file
+    python --version
+    python3 --version
+  ✅ STEP 2 — Install the only dependency
+    pip install requests
+    pip3 install requests
+  ✅ STEP 3 — Run the script
+    python3 test_no_api.py ->  creates a wav file with one note beepy sound
+    python3 melody_test.py ->  creates a wav file with multiple note beepy melody
+    python3 chord_test.py ->  creates a wav file with polyphony
+    python3 chord_envelope.py ->  creates a wav file with harmony and envelope
+    python3 progression.py ->  chord progression
+    python3 bass_chord.py ->  bass + chord
+    python3 bass_chord_groove.py ->  groove | bass → (tiny breath) → chord
+    python3 bass_chord_human.py ->  real groove | slightly vary the pause and durations
+    
+
+    python3 producer.py
+-------------------------------------------------
+---------------------Git-------------------------
+git init -> Initialize empty Git repository  /Users/jinjoolee/Documents/ethos/.git/
+git remote add origin https://github.com/redLiquidator/Ethos.git
+git remote -v -> Verify
+git add . -> Add everything inside ethos 
+git status -> Verify
+git commit -m "Initial Ethos commit: wav creation engine"
+git branch -M main
+git push -u origin main
+
+**Pull from GitHub and allow merge**
+git pull origin main --allow-unrelated-histories --no-rebase -> merge local and remote anyway. no rebase.
+git push -u origin main -> push again
+
+--------------------------------------------------
+
+
+
+
+
