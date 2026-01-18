@@ -1,0 +1,11 @@
+1. create produce.py file
+2. check 
+   ✅ STEP 1 — Make sure Python can run this file
+    python --version
+    python3 --version
+  ✅ STEP 2 — Install the only dependency
+    pip install requests
+    pip3 install requests
+  ✅ STEP 3 — Run the script
+    python producer.py
+
