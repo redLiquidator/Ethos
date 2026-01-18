@@ -11,5 +11,7 @@ Python 3.11.0
     pip install requests
     pip3 install requests
   ✅ STEP 3 — Run the script
-    python producer.py
+    python3 test_no_api.py ->  creates a wav file with one note beepy sound
+    python3 melody_test.py ->  creates a wav file with multiple note beepy melody
+    python3 producer.py
 -------------------------------------------------
