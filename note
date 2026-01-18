@@ -14,5 +14,6 @@ Python 3.11.0
     python3 test_no_api.py ->  creates a wav file with one note beepy sound
     python3 melody_test.py ->  creates a wav file with multiple note beepy melody
     python3 chord_test.py -> creates a wav file with polyphony
+    python3 chord_envelope.py -> crate a wav file with harmony and envelope
     python3 producer.py
 -------------------------------------------------
