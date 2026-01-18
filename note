@@ -13,8 +13,13 @@ Python 3.11.0
   ✅ STEP 3 — Run the script
     python3 test_no_api.py ->  creates a wav file with one note beepy sound
     python3 melody_test.py ->  creates a wav file with multiple note beepy melody
-    python3 chord_test.py -> creates a wav file with polyphony
-    python3 chord_envelope.py -> creates a wav file with harmony and envelope
-    python3 progression.py -> + chord progression
+    python3 chord_test.py ->  creates a wav file with polyphony
+    python3 chord_envelope.py ->  creates a wav file with harmony and envelope
+    python3 progression.py ->  chord progression
+    python3 bass_chord.py ->  bass + chord
+    python3 bass_chord_groove.py ->  groove | bass → (tiny breath) → chord
+    python3 bass_chord_human.py ->  real groove | slightly vary the pause and durations
+    
+
     python3 producer.py
 -------------------------------------------------
