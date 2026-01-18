@@ -37,6 +37,9 @@ git push -u origin main
 git pull origin main --allow-unrelated-histories --no-rebase -> merge local and remote anyway. no rebase.
 git push -u origin main -> push again
 
+**Switch User**
+summersoftsky->red liquidator
+
 --------------------------------------------------
 
 
