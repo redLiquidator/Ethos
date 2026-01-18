@@ -23,3 +23,23 @@ Python 3.11.0
 
     python3 producer.py
 -------------------------------------------------
+---------------------Git-------------------------
+git init -> Initialize empty Git repository  /Users/jinjoolee/Documents/ethos/.git/
+git remote add origin https://github.com/redLiquidator/Ethos.git
+git remote -v -> Verify
+git add . -> Add everything inside ethos 
+git status -> Verify
+git commit -m "Initial Ethos commit: wav creation engine"
+git branch -M main
+git push -u origin main
+
+**Pull from GitHub and allow merge**
+git pull origin main --allow-unrelated-histories -> merge local and remote anyway
+git push -u origin main -> push again
+
+--------------------------------------------------
+
+
+
+
+
