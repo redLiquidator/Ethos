@@ -34,7 +34,7 @@ git branch -M main
 git push -u origin main
 
 **Pull from GitHub and allow merge**
-git pull origin main --allow-unrelated-histories -> merge local and remote anyway
+git pull origin main --allow-unrelated-histories --no-rebase -> merge local and remote anyway. no rebase.
 git push -u origin main -> push again
 
 --------------------------------------------------
