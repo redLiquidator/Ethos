@@ -1,7 +1,8 @@
-----------------Environment Setup---------------
+----------------Environment Setup & Spefication---------------
 Python 3.11.0
-------------------------------------------------
------------------Execution Steps----------------
+Stable Audio API (by Stability AI)
+--------------------------------------------------------------
+------------------------Execution Steps-----------------------
 1. create produce.py file
 2. check 
    ✅ STEP 1 — Make sure Python can run this file
@@ -22,8 +23,8 @@ Python 3.11.0
     
 
     python3 producer.py
--------------------------------------------------
----------------------Git-------------------------
+---------------------------------------------------------------
+------------------------------Git------------------------------
 git init -> Initialize empty Git repository  /Users/jinjoolee/Documents/ethos/.git/
 git remote add origin https://github.com/redLiquidator/Ethos.git
 git remote -v -> Verify
@@ -40,7 +41,7 @@ git push -u origin main -> push again
 **Switch User**
 summersoftsky->red liquidator
 
---------------------------------------------------
+---------------------------------------------------------------
 
 
 
