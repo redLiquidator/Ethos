@@ -7,6 +7,17 @@ Inference | Make calls to Inference Providers
 Repositories | Read access to contents of all repos under your personal namespace 
              | Read access to contents of all public gated repos you can access
 --------------------------------------------------------------
+------------------------API Info------------------------------
+Name	Hosted by	Free?	Notes
+1. Stable Audio (Commercial)	
+  by Stability AI on stableaudio.com
+  ❌ Not free beyond short demos	Commercial service with paid plans and private API
+
+2. stable-audio-open / stable-audio-open-small (on Hugging Face)	
+  by Stability AI (Open Source release)	
+  ✅ Free	Open model checkpoint hosted on Hugging Face, under stabilityai/stable-audio-open-small
+  -> This is not available via REST API
+--------------------------------------------------------------
 ------------------------Execution Steps-----------------------
 1. create produce.py file
 2. check 

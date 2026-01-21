@@ -3,7 +3,7 @@ from pathlib import Path
 import os
 
 # === Configuration ===
-API_URL = "https://api-inference.huggingface.co/models/facebook/musicgen-small"
+API_URL = "https://router.huggingface.co/models/facebook/musicgen-small"
 API_KEY = os.getenv("HF_TOKEN_STABLEAUDIO")
 
 prompt = "bossa jazz instrumental, gentle acoustic guitar, latin percussion"
