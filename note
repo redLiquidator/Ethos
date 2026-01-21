@@ -1,6 +1,11 @@
 ----------------Environment Setup & Spefication---------------
 Python 3.11.0
-Stable Audio API (by Stability AI)
+Stable Audio API (by Stability AI) - Paid Plan
+Hugging Face - Create Token Option : 
+Inference | Make calls to Inference Providers 
+          | Make calls to your Inference Endpoints
+Repositories | Read access to contents of all repos under your personal namespace 
+             | Read access to contents of all public gated repos you can access
 --------------------------------------------------------------
 ------------------------Execution Steps-----------------------
 1. create produce.py file
