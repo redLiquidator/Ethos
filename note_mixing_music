@@ -1,0 +1,18 @@
+**making mixes to create music instead of relying on APIs**
+-> A local python-based mix builder
+
+--------------procedure-----------------
+Step 1. pip3 install pydub librosa soundfile numpy
+    ydub → loading, trimming, mixing, exporting audio
+    librosa → reading tempo/key, optional analysis
+    soundfile → writing WAVs
+    numpy → math for normalization or gain
+Step 2. sound organization
+project_root/
+ ├─ stems/
+ │   ├─ guitar.wav
+ │   ├─ percussion.wav
+ │   ├─ bass.wav
+ │   └─ pad.wav
+ └─ mix_builder.py
+ Step 3. create mix_builer.py file
